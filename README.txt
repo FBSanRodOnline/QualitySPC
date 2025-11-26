@@ -4,6 +4,12 @@
 
 This release features a complete suite of tools for Process Control, Capability Analysis, and Measurement System Analysis, adhering to ASTM and AIAG standards.
 
+### 💡 Project Philosophy
+
+This project was built using **AI assistance** (Large Language Models) to accelerate the development of complex statistical formulas and framework structure.
+
+It is designed as an open-source, community-driven resource. We encourage developers to **fork** the repository, **verify the mathematical logic**, and **contribute improvements** to make this the most accurate free SPC tool available.
+
 ---
 
 ## ✨ Key Features
@@ -47,6 +53,15 @@ Because this software is free and independently developed, Windows Defender or S
 ---
 
 ## ⚖️ License & Disclaimer
-**Free for personal and commercial use.**
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+**Free for use, but "Use at Your Own Risk".**
+
+This software was developed as a personal project to assist students and professionals with statistical analysis. While every effort has been made to ensure mathematical accuracy (adhering to AIAG/ASTM standards), this software has **not** undergone the third-party validation or certification often required for Enterprise Quality Management Systems (EQMS).
+
+### ⚠️ Commercial & Industrial Use Warning
+**This software is primarily intended for educational and personal verification purposes.**
+
+Any company, corporation, or organization that chooses to use **QualitySPC** for commercial production, quality control, or critical business decisions does so **entirely at their own risk**.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. **THE AUTHORS EXPRESSLY DISCLAIM ANY LIABILITY** FOR DEFECTIVE PRODUCTS, FINANCIAL LOSSES, RECALLS, OR DAMAGES RESULTING FROM THE USE OF THIS SOFTWARE. BY DOWNLOADING THIS APPLICATION, YOU AGREE THAT YOU ARE SOLELY RESPONSIBLE FOR VERIFYING ALL RESULTS BEFORE APPLYING THEM TO LIVE MANUFACTURING PROCESSES.
+
