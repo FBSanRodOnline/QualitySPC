@@ -39,9 +39,8 @@ It is designed as an open-source, community-driven resource. We encourage develo
 
 ## 📦 How to Install & Run
 
-1.  **Download** the `QualitySPC_v1.0_Windows.zip` file from the Releases section.
-2.  **Extract** the zip file to a folder on your computer.
-3.  Open the folder and double-click **`QualitySPC.exe`** to launch the application.
+1.  **Download** the `QualitySPC_v1.0.0` file from the Releases section.
+2.  This will download the app onto your desktop and will be ready to be used.
 
 ### ⚠️ Security Notice
 Because this software is free and independently developed, Windows Defender or SmartScreen may flag it as an "Unknown Publisher."
@@ -62,5 +61,6 @@ This software was developed as a personal project to assist students and profess
 Any company, corporation, or organization that chooses to use **QualitySPC** for commercial production, quality control, or critical business decisions does so **entirely at their own risk**.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. **THE AUTHORS EXPRESSLY DISCLAIM ANY LIABILITY** FOR DEFECTIVE PRODUCTS, FINANCIAL LOSSES, RECALLS, OR DAMAGES RESULTING FROM THE USE OF THIS SOFTWARE. BY DOWNLOADING THIS APPLICATION, YOU AGREE THAT YOU ARE SOLELY RESPONSIBLE FOR VERIFYING ALL RESULTS BEFORE APPLYING THEM TO LIVE MANUFACTURING PROCESSES.
+
 
 
